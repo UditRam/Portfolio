@@ -1,0 +1,87 @@
+/*
+#myCarousel{
+    margin-bottom: 25px !important;
+}
+*/
+
+#rows{
+    margin-top: 50px;
+}
+
+.centre{
+    text-align: center;
+}
+.abtcntct:hover{
+    cursor:pointer;
+}
+
+#project-header{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.invisible-button{
+    content: block;
+}
+
+.carousel-caption{
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#search{
+    width:30%;
+    height: 35px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-size: 25px;
+    margin-left: 48%;
+}
+
+div#work-body{
+    border-radius: 10px;
+    width: 80%;
+}
+
+div#work-body > ul >li{
+    font-size: 16px;
+    margin-left: 25%;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: solid 1px black;
+    list-style: none;
+}
+
+
+div#work-body > ul > li > a{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Orbitron', sans-serif;
+}
+#host{
+    margin-left: 48%;
+}
+
+.margins{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+#link{
+    text-align: right;
+}
+
+#moreprjcts{
+    color: black;
+    
+}
+
+input::-webkit-input-placeholder {
+    font-size: 20px;
+    color: darkgray;
+    padding-left: 10px;
+    line-height: 3;
+}
